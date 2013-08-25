@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://WilsonDai.github.io/sitemap.xml 
