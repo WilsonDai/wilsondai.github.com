@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://WilsonDai.github.io/atom.xml" rel="self"/>
-  <link href="http://WilsonDai.github.io/"/>
-  <updated>2013-08-25T23:51:29+08:00</updated>
-  <id>http://WilsonDai.github.io/</id>
+  <link href="http://wilsondai.github.com/atom.xml" rel="self"/>
+  <link href="http://wilsondai.github.com/"/>
+  <updated>2013-08-25T23:55:20+08:00</updated>
+  <id>http://wilsondai.github.com/</id>
   <author>
     <name><![CDATA[Wilson Dai]]></name>
     <email><![CDATA[daiwx@live.com]]></email>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://WilsonDai.github.io/blog/2013/08/25/hello-world/"/>
+    <link href="http://wilsondai.github.com/blog/2013/08/25/hello-world/"/>
     <updated>2013-08-25T19:09:00+08:00</updated>
-    <id>http://WilsonDai.github.io/blog/2013/08/25/hello-world</id>
+    <id>http://wilsondai.github.com/blog/2013/08/25/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[new article]]></title>
-    <link href="http://WilsonDai.github.io/blog/2013/08/24/new-article/"/>
+    <link href="http://wilsondai.github.com/blog/2013/08/24/new-article/"/>
     <updated>2013-08-24T19:07:00+08:00</updated>
-    <id>http://WilsonDai.github.io/blog/2013/08/24/new-article</id>
+    <id>http://wilsondai.github.com/blog/2013/08/24/new-article</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
